@@ -1,0 +1,34 @@
+ {
+            "id": "4235",
+            "name": "Kepulauan Riau",
+            "city": [
+                {
+                    "id": "1",
+                    "name": "Kabupaten Bintan"
+                },
+                {
+                    "id": "2",
+                    "name": "Kabupaten Karimun"
+                },
+                {
+                    "id": "3",
+                    "name": "Kabupaten Kepulauan Anambas"
+                },
+                {
+                    "id": "4",
+                    "name": "Kabupaten Lingga"
+                },
+                {
+                    "id": "5",
+                    "name": "Kabupaten Natuna"
+                },
+                {
+                    "id": "6",
+                    "name": "Kota Batam"
+                },
+                {
+                    "id": "7",
+                    "name": "Kota Tanjung Pinang"
+                }
+            ]
+        }
