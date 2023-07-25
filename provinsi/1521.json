@@ -1,0 +1,46 @@
+ {
+            "id": "1521",
+            "name": "Kalimantan Timur",
+            "city": [
+                {
+                    "id": "1",
+                    "name": "Kabupaten Berau"
+                },
+                {
+                    "id": "2",
+                    "name": "Kabupaten Kutai Barat"
+                },
+                {
+                    "id": "3",
+                    "name": "Kabupaten Kutai Kartanegara"
+                },
+                {
+                    "id": "4",
+                    "name": "Kabupaten Kutai Timur"
+                },
+                {
+                    "id": "5",
+                    "name": "Kabupaten Mahakam Ulu"
+                },
+                {
+                    "id": "6",
+                    "name": "Kabupaten Paser"
+                },
+                {
+                    "id": "7",
+                    "name": "Kabupaten Penajam Paser Utara"
+                },
+                {
+                    "id": "8",
+                    "name": "Kota Balikpapan"
+                },
+                {
+                    "id": "9",
+                    "name": "Kota Bontang"
+                },
+                {
+                    "id": "10",
+                    "name": "Kota Samarinda"
+                }
+            ]
+        }
