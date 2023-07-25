@@ -1,0 +1,54 @@
+ {
+            "id": "4233",
+            "name": "Papua Barat",
+            "city": [
+                {
+                    "id": "1",
+                    "name": "Kabupaten Fakfak"
+                },
+                {
+                    "id": "2",
+                    "name": "Kabupaten Kaimana"
+                },
+                {
+                    "id": "3",
+                    "name": "Kabupaten Manokwari"
+                },
+                {
+                    "id": "4",
+                    "name": "Kabupaten Manokwari Selatan"
+                },
+                {
+                    "id": "5",
+                    "name": "Kabupaten Maybrat"
+                },
+                {
+                    "id": "6",
+                    "name": "Kabupaten Pegunungan Arfak"
+                },
+                {
+                    "id": "7",
+                    "name": "Kabupaten Raja Ampat"
+                },
+                {
+                    "id": "8",
+                    "name": "Kabupaten Sorong"
+                },
+                {
+                    "id": "9",
+                    "name": "Kabupaten Sorong Selatan"
+                },
+                {
+                    "id": "10",
+                    "name": "Kabupaten Tambrauw"
+                },
+                {
+                    "id": "11",
+                    "name": "Kabupaten Teluk Bintuni"
+                },
+                {
+                    "id": "12",
+                    "name": "Kabupaten Teluk Wondama"
+                }
+            ]
+        }
