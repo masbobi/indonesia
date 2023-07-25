@@ -1,0 +1,66 @@
+ {
+            "id": "1523",
+            "name": "Lampung",
+            "city": [
+                {
+                    "id": "1",
+                    "name": "Kabupaten Lampung Tengah"
+                },
+                {
+                    "id": "2",
+                    "name": "Kabupaten Lampung Utara"
+                },
+                {
+                    "id": "3",
+                    "name": "Kabupaten Lampung Selatan"
+                },
+                {
+                    "id": "4",
+                    "name": "Kabupaten Lampung Barat"
+                },
+                {
+                    "id": "5",
+                    "name": "Kabupaten Lampung Timur"
+                },
+                {
+                    "id": "6",
+                    "name": "Kabupaten Mesuji"
+                },
+                {
+                    "id": "7",
+                    "name": "Kabupaten Pesawaran"
+                },
+                {
+                    "id": "8",
+                    "name": "Kabupaten Pesisir Barat"
+                },
+                {
+                    "id": "9",
+                    "name": "Kabupaten Pringsewu"
+                },
+                {
+                    "id": "10",
+                    "name": "Kabupaten Tulang Bawang"
+                },
+                {
+                    "id": "11",
+                    "name": "Kabupaten Tulang Bawang Barat"
+                },
+                {
+                    "id": "12",
+                    "name": "Kabupaten Tanggamus"
+                },
+                {
+                    "id": "13",
+                    "name": "Kabupaten Way Kanan"
+                },
+                {
+                    "id": "14",
+                    "name": "Kota Bandar Lampung"
+                },
+                {
+                    "id": "15",
+                    "name": "Kota Metro"
+                }
+            ]
+        }
