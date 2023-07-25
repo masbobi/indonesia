@@ -1,0 +1,158 @@
+{
+            "id": "1517",
+            "name": "Jawa Timur",
+            "city": [
+                {
+                    "id": "1",
+                    "name": "Kabupaten Bangkalan"
+                },
+                {
+                    "id": "2",
+                    "name": "Kabupaten Banyuwangi"
+                },
+                {
+                    "id": "3",
+                    "name": "Kabupaten Blitar"
+                },
+                {
+                    "id": "4",
+                    "name": "Kabupaten Bojonegoro"
+                },
+                {
+                    "id": "5",
+                    "name": "Kabupaten Bondowoso"
+                },
+                {
+                    "id": "6",
+                    "name": "Kabupaten Gresik"
+                },
+                {
+                    "id": "7",
+                    "name": "Kabupaten Jember"
+                },
+                {
+                    "id": "8",
+                    "name": "Kabupaten Jombang"
+                },
+                {
+                    "id": "9",
+                    "name": "Kabupaten Kediri"
+                },
+                {
+                    "id": "10",
+                    "name": "Kabupaten Lamongan"
+                },
+                {
+                    "id": "11",
+                    "name": "Kabupaten Lumajang"
+                },
+                {
+                    "id": "12",
+                    "name": "Kabupaten Madiun"
+                },
+                {
+                    "id": "13",
+                    "name": "Kabupaten Magetan"
+                },
+                {
+                    "id": "14",
+                    "name": "Kabupaten Malang"
+                },
+                {
+                    "id": "15",
+                    "name": "Kabupaten Mojokerto"
+                },
+                {
+                    "id": "16",
+                    "name": "Kabupaten Nganjuk"
+                },
+                {
+                    "id": "17",
+                    "name": "Kabupaten Ngawi"
+                },
+                {
+                    "id": "18",
+                    "name": "Kabupaten Pacitan"
+                },
+                {
+                    "id": "19",
+                    "name": "Kabupaten Pamekasan"
+                },
+                {
+                    "id": "20",
+                    "name": "Kabupaten Pasuruan"
+                },
+                {
+                    "id": "21",
+                    "name": "Kabupaten Ponorogo"
+                },
+                {
+                    "id": "22",
+                    "name": "Kabupaten Probolinggo"
+                },
+                {
+                    "id": "23",
+                    "name": "Kabupaten Sampang"
+                },
+                {
+                    "id": "24",
+                    "name": "Kabupaten Sidoarjo"
+                },
+                {
+                    "id": "25",
+                    "name": "Kabupaten Situbondo"
+                },
+                {
+                    "id": "26",
+                    "name": "Kabupaten Sumenep"
+                },
+                {
+                    "id": "27",
+                    "name": "Kabupaten Trenggalek"
+                },
+                {
+                    "id": "28",
+                    "name": "Kabupaten Tuban"
+                },
+                {
+                    "id": "29",
+                    "name": "Kabupaten Tulungagung"
+                },
+                {
+                    "id": "30",
+                    "name": "Kota Batu"
+                },
+                {
+                    "id": "31",
+                    "name": "Kota Blitar"
+                },
+                {
+                    "id": "32",
+                    "name": "Kota Kediri"
+                },
+                {
+                    "id": "33",
+                    "name": "Kota Madiun"
+                },
+                {
+                    "id": "34",
+                    "name": "Kota Malang"
+                },
+                {
+                    "id": "35",
+                    "name": "Kota Mojokerto"
+                },
+                {
+                    "id": "36",
+                    "name": "Kota Pasuruan"
+                },
+                {
+                    "id": "37",
+                    "name": "Kota Probolinggo"
+                },
+                {
+                    "id": "38",
+                    "name": "Kota Surabaya"
+                }
+            ]
+        }
