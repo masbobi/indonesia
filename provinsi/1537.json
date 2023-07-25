@@ -1,0 +1,26 @@
+{
+            "id": "1537",
+            "name": "Yogyakarta",
+            "city": [
+                {
+                    "id": "1",
+                    "name": "Kabupaten Bantul"
+                },
+                {
+                    "id": "2",
+                    "name": "Kabupaten Gunungkidul"
+                },
+                {
+                    "id": "3",
+                    "name": "Kabupaten Kulon Progo"
+                },
+                {
+                    "id": "4",
+                    "name": "Kabupaten Sleman"
+                },
+                {
+                    "id": "5",
+                    "name": "Kota Yogyakarta"
+                }
+            ]
+        }
