@@ -1,0 +1,34 @@
+{
+            "id": "4234",
+            "name": "Sulawesi Barat",
+            "city": [
+                {
+                    "id": "1",
+                    "name": "Kabupaten Majene"
+                },
+                {
+                    "id": "2",
+                    "name": "Kabupaten Mamasa"
+                },
+                {
+                    "id": "3",
+                    "name": "Kabupaten Mamuju"
+                },
+                {
+                    "id": "4",
+                    "name": "Kabupaten Mamuju Tengah"
+                },
+                {
+                    "id": "5",
+                    "name": "Kabupaten Mamuju Utara"
+                },
+                {
+                    "id": "6",
+                    "name": "Kabupaten Polewali Mandar"
+                },
+                {
+                    "id": "7",
+                    "name": "Kota Mamuju"
+                }
+            ]
+        }
