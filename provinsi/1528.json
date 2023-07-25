@@ -1,0 +1,122 @@
+{
+            "id": "1528",
+            "name": "Papua",
+            "city": [
+                {
+                    "id": "1",
+                    "name": "Kabupaten Asmat"
+                },
+                {
+                    "id": "2",
+                    "name": "Kabupaten Biak Numfor"
+                },
+                {
+                    "id": "3",
+                    "name": "Kabupaten Boven Digoel"
+                },
+                {
+                    "id": "4",
+                    "name": "Kabupaten Deiyai"
+                },
+                {
+                    "id": "5",
+                    "name": "Kabupaten Dogiyai"
+                },
+                {
+                    "id": "6",
+                    "name": "Kabupaten Intan Jaya"
+                },
+                {
+                    "id": "7",
+                    "name": "Kabupaten Jayapura"
+                },
+                {
+                    "id": "8",
+                    "name": "Kabupaten Jayawijaya"
+                },
+                {
+                    "id": "9",
+                    "name": "Kabupaten Keerom"
+                },
+                {
+                    "id": "10",
+                    "name": "Kabupaten Kepulauan Yapen"
+                },
+                {
+                    "id": "11",
+                    "name": "Kabupaten Lanny Jaya"
+                },
+                {
+                    "id": "12",
+                    "name": "Kabupaten Mamberamo Raya"
+                },
+                {
+                    "id": "13",
+                    "name": "Kabupaten Mamberamo Tengah"
+                },
+                {
+                    "id": "14",
+                    "name": "Kabupaten Mappi"
+                },
+                {
+                    "id": "15",
+                    "name": "Kabupaten Merauke"
+                },
+                {
+                    "id": "16",
+                    "name": "Kabupaten Mimika"
+                },
+                {
+                    "id": "17",
+                    "name": "Kabupaten Nabire"
+                },
+                {
+                    "id": "18",
+                    "name": "Kabupaten Nduga"
+                },
+                {
+                    "id": "19",
+                    "name": "Kabupaten Paniai"
+                },
+                {
+                    "id": "20",
+                    "name": "Kabupaten Pegunungan Bintang"
+                },
+                {
+                    "id": "21",
+                    "name": "Kabupaten Puncak"
+                },
+                {
+                    "id": "22",
+                    "name": "Kabupaten Puncak Jaya"
+                },
+                {
+                    "id": "23",
+                    "name": "Kabupaten Sarmi"
+                },
+                {
+                    "id": "24",
+                    "name": "Kabupaten Supiori"
+                },
+                {
+                    "id": "25",
+                    "name": "Kabupaten Tolikara"
+                },
+                {
+                    "id": "26",
+                    "name": "Kabupaten Waropen"
+                },
+                {
+                    "id": "27",
+                    "name": "Kabupaten Yahukimo"
+                },
+                {
+                    "id": "28",
+                    "name": "Kabupaten Yalimo"
+                },
+                {
+                    "id": "29",
+                    "name": "Kota Jayapura"
+                }
+            ]
+        }
