@@ -1,0 +1,54 @@
+ {
+            "id": "1529",
+            "name": "Riau",
+            "city": [
+                {
+                    "id": "1",
+                    "name": "Kabupaten Bengkalis"
+                },
+                {
+                    "id": "2",
+                    "name": "Kabupaten Indragiri Hilir"
+                },
+                {
+                    "id": "3",
+                    "name": "Kabupaten Indragiri Hulu"
+                },
+                {
+                    "id": "4",
+                    "name": "Kabupaten Kampar"
+                },
+                {
+                    "id": "5",
+                    "name": "Kabupaten Kepulauan Meranti"
+                },
+                {
+                    "id": "6",
+                    "name": "Kabupaten Kuantan Singingi"
+                },
+                {
+                    "id": "7",
+                    "name": "Kabupaten Pelalawan"
+                },
+                {
+                    "id": "8",
+                    "name": "Kabupaten Rokan Hilir"
+                },
+                {
+                    "id": "9",
+                    "name": "Kabupaten Rokan Hulu"
+                },
+                {
+                    "id": "10",
+                    "name": "Kabupaten Siak"
+                },
+                {
+                    "id": "11",
+                    "name": "Kota Dumai"
+                },
+                {
+                    "id": "12",
+                    "name": "Kota Pekanbaru"
+                }
+            ]
+        }
