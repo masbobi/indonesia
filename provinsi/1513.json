@@ -1,0 +1,30 @@
+{
+            "id": "1513",
+            "name": "Jakarta",
+            "city": [
+                {
+                    "id": "1",
+                    "name": "Kota Administrasi Jakarta Barat"
+                },
+                {
+                    "id": "2",
+                    "name": "Kota Administrasi Jakarta Pusat"
+                },
+                {
+                    "id": "3",
+                    "name": "Kota Administrasi Jakarta Selatan"
+                },
+                {
+                    "id": "4",
+                    "name": "Kota Administrasi Jakarta Timur"
+                },
+                {
+                    "id": "5",
+                    "name": "Kota Administrasi Jakarta Utara"
+                },
+                {
+                    "id": "6",
+                    "name": "Kabupaten Administrasi Kepulauan Seribu"
+                }
+            ]
+        }
